@@ -96,7 +96,22 @@ Explainable AI (SHAP)
 Decision Engine (Retention Strategy)
 ↓
 Streamlit Dashboard (Business Interface)
+## 🌐 Live Demo
 
+🚀 Experience the system in action:
+
+👉 **Streamlit App:**  
+https://churnguard-ai-enterprise-customer-retention-system-5jpeqyf8a4n.streamlit.app/
+
+---
+
+### 🔍 What You Can Do:
+
+- 📊 View real-time business KPIs  
+- 👤 Analyze individual customer churn risk  
+- 🧠 Understand predictions using SHAP explanations  
+- 🧪 Run "What-if" simulations  
+- 🎯 See recommended retention strategies  
 
 
 ## 📊 Dataset
@@ -272,22 +287,7 @@ streamlit run app/streamlit_app.py
 * Cloud deployment (AWS/GCP)
 
 
-## 🌐 Live Demo
 
-🚀 Experience the system in action:
-
-👉 **Streamlit App:**  
-https://churnguard-ai-enterprise-customer-retention-system-5jpeqyf8a4n.streamlit.app/
-
----
-
-### 🔍 What You Can Do:
-
-- 📊 View real-time business KPIs  
-- 👤 Analyze individual customer churn risk  
-- 🧠 Understand predictions using SHAP explanations  
-- 🧪 Run "What-if" simulations  
-- 🎯 See recommended retention strategies  
 
 ---
 
