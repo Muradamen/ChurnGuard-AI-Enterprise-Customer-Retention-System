@@ -13,7 +13,7 @@ It transforms raw customer data into:
 - 🎯 Retention strategies  
 - 💰 Revenue impact estimation  
 - 🌐 Interactive business dashboard  
-
+![ChurnGuard AI Dashboard](images/churn_dashboard.png)
 
 ## 🧠 Business Problem
 
@@ -90,6 +90,7 @@ Features include:
 - Churn distribution analysis
 - Contract vs churn behavior
 - Tenure-based risk patterns
+
 
 ### 3. Feature Engineering
 - Service usage aggregation
