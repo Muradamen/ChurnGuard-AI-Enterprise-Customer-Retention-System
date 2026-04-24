@@ -209,7 +209,7 @@ The system converts predictions into actions:
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/your-username/churnguard-ai.git
+https://github.com/Muradamen/ChurnGuard-AI-Enterprise-Customer-Retention-System.git
 cd churnguard-ai
 
 pip install -r requirements.txt
